@@ -1,4 +1,4 @@
-#include "BasicQuickSort.h"
+#include "../BasicQuickSort.h"
 #include <chrono>
 
 BasicQuickSort::BasicQuickSort() : rd(), gen(rd()) {}

@@ -1,4 +1,4 @@
-#include "MergeSort.h"
+#include "../MergeSort.h"
 #include <iostream>
 #include <chrono>
 

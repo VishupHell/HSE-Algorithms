@@ -1,13 +1,13 @@
 #include <iostream>
 
-#include "BasicMergeSort.h"
-#include "BasicQuickSort.h"
-#include "MergeSort.h"
-#include "MSBRadixQuickSort.h"
-#include "QuickSort.h"
-#include "RadixSort.h"
+#include "algorithms/BasicMergeSort.h"
+#include "algorithms/BasicQuickSort.h"
+#include "algorithms/MergeSort.h"
+#include "algorithms/MSBRadixQuickSort.h"
+#include "algorithms/QuickSort.h"
+#include "algorithms/RadixSort.h"
 #include "StringGenerator.h"
-#include "StringTester.h"
+#include "infrastructure/StringTester.h"
 
 int main() {
   StringGenerator g;
